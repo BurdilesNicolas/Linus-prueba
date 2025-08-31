@@ -1,0 +1,12 @@
+<h1 align="center">Proyecto: Tienda de ropa - RUINAGE</h1>
+<h3 align="center">En este repositorio encontraras el proyecto para Web Estática de estudiantes de una tienda de ropa, de 5°4 de la EPETN°20 de Neuquén. Nuestro proposito es simular el funcionamiento y uso de una tienda de ropa online.</h3>
+<h3 align="left">En este proyecto utilizaremos herramienta como:</h3>
+<p aling="left">
+HTML.
+CSS.
+JavaScript.
+Git.
+GitHub.
+</p>
+<h3 align="left">Realizadores:</h3>
+<p align="left"> Alumnos: Burdiles Nicolás, Flores Ramiro, Leiva Aldana y Kletzel Bou Luca </p>
